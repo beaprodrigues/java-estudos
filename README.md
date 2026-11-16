@@ -1,9 +1,15 @@
-# swift-estudos
-Swift e SwiftUI (estudos)
+# java-estudos
+Java e Spring Boot (estudos)
 
 ## Projetos
-- [ ] Projeto 1: app de check-in diário (em andamento a partir de 30/11)
-- [ ] Projeto 2: xadrez em SwiftUI (a partir de 14/12)
+- [ ] Projeto 1: app de check-in 
+- [ ] Projeto 2: xadrez 
 
 ## Diário
-- Dia 1: variáveis e tipos
+- Dia 1:
+- Dia 2:
+- Dia 3:
+- Dia 4:
+- Dia 5:
+- Dia 6:
+- Dia 7:
